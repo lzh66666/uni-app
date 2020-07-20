@@ -1,0 +1,11 @@
+
+.box {
+	text-align: center;
+}
+.title {
+	color: red;
+	text-align: center;
+	font-size: 30px;
+}
+
+
